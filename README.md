@@ -7,3 +7,5 @@ One prompt at a time ....
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
 A curated collection of high-leverage, production-grade LLM prompts for system red-teaming, rigorous architectural modeling, strategic leadership scaling, and unsparing personal audits.
+
+![](https://github.com/simplymanas/exciting-prompts/blob/main/prompt-repo.png)
